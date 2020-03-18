@@ -1,2 +1,30 @@
-/* CSS Document */
+@charset "UTF-8";
 
+body {background-color:crimson
+	}
+
+body {font-family:Consolas,"Courier New"}
+
+h1 {color: aliceblue}
+
+h1 {font-family:Consolas,"Courier New"}
+
+p {color:aliceblue}
+
+p {font-family:Consolas,"Courier New"}
+
+a {color:aliceblue}
+
+a {font-family:Consolas,"Courier New"}
+
+h4 {color: aliceblue}
+
+h4 {font-family:Consolas,"Courier New"}
+
+h3 {color: aliceblue}
+
+h3 {font-family:Consolas,"Courier New"}
+
+h2 {color: aliceblue}
+
+h2 {font-family:Consolas,"Courier New"}
